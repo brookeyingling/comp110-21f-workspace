@@ -1,5 +1,12 @@
-# TODO: Write docstring here
+"""Exercise part 1 hype machine."""
 
-# TODO: Initialize __author__ variable here
+__author__ = "730405432"
 
-# TODO: Implement your program logic here
+"""I made use of concatenation, strings, input, and proper syntax in this exercise."""
+
+name: str = input("What is your name? ")
+print("You entered: ")
+print(name)
+print(name + " you slay!")
+print("You are so cool and funny and smart and good at coding " + name + "!")
+print("You know what " + name + ", you slay queen!")
