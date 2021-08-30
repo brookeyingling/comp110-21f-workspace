@@ -2,6 +2,7 @@
 
 _author_ = "730405432"
 
+"""Add strings together but subsitute the final string with an equation."""
 
 initialnumber1: str = input("Left-hand side:")
 initialnumber2: str = input("Right-hand side:")
