@@ -1,6 +1,6 @@
 """Exercise 1 part 2 numeric operators."""
 
-_author_ = "730405432"
+__author__ = "730405432"
 
 """Add strings together but subsitute the final string with an equation."""
 

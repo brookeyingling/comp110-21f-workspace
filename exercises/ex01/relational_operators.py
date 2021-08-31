@@ -1,6 +1,6 @@
 """Exercise 1 part 3."""
 
-_author_ = "730405432"
+__author__ = "730405432"
 
 """Applied concepts from part 2 to solve True/False equations."""
 
